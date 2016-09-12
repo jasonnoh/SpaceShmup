@@ -412,6 +412,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefabEnemies:
+  - {fileID: 1000012423767974, guid: 61eb98f3c38179f46b454b79445a3dc8, type: 2}
+  - {fileID: 1000012423767974, guid: 61eb98f3c38179f46b454b79445a3dc8, type: 2}
+  - {fileID: 1000010751293180, guid: 2f808a2ee654ad04793cddeba1c13363, type: 2}
+  - {fileID: 1000013082740726, guid: 28c2464e1f1bcdd4fb748107666d4b9f, type: 2}
+  - {fileID: 1000013129066842, guid: 8a1abd638e6c2af47a74e8dfe382ddcd, type: 2}
+  - {fileID: 1000012423767974, guid: 61eb98f3c38179f46b454b79445a3dc8, type: 2}
+  - {fileID: 1000010751293180, guid: 2f808a2ee654ad04793cddeba1c13363, type: 2}
   - {fileID: 1000014265843278, guid: 6764c5e3d28a62f46b10d67045e6f348, type: 2}
   enemySpawnPerSecond: 1
   enemySpawnPadding: 1.5
@@ -678,7 +685,7 @@ Transform:
   m_GameObject: {fileID: 630271680}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 10}
-  m_LocalScale: {x: 80, y: 80, z: 1}
+  m_LocalScale: {x: 160, y: 160, z: 1}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
